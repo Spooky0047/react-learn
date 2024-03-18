@@ -12,7 +12,7 @@ const Navbarr = () => {
   ];
 
   return (
-    <nav className=" bg-[#1c1c43e1] border-b w-full font-semibold md:static md:text-sm md:border-none">
+    <nav className=" bg-[#0d0d0fe1] border-b w-full font-semibold md:static md:text-sm md:border-none">
       <div className="items-center px-4 max-w-screen-xl mx-auto md:flex md:px-8">
         <div className="flex items-center justify-between py-3 md:py-5 md:block">
           <a href="javascript:void(0)">
